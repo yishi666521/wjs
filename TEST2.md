@@ -1,2 +1,0 @@
-# WJS
-Test
